@@ -1,3 +1,24 @@
+<div align="center">
+<h1 align="center">Tomasz Zając</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=008AF7&background=DD000000&center=true&vCenter=true&width=436&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93+IT+Student;%E2%9A%99%EF%B8%8FTech+Enthusiast;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBFullstack+Developer" alt="Typing SVG" /></a>
+</div>
+
+## 📝 About Me
+
+- 🧑‍🎓 16yo programming student at <a href="https://technischools.com/" target="__blank">Techni Schools</a>
+- 💻 Passionate about the new technologies
+- 📚 Eager to learn new programming concepts
+- 💬 Native in Polish, Fluent in English, Intermediate in German, Basics of Mandarin Chinese
+
+</br>
+
+## 🧩 Projects
+
+- ⛓️ **GhostPay** — A payment system concept that enables secure and flexible daily cryptocurrency payments using a card and an app, utilizing blockchain technology. Won the <a href="https://www.poznan.pl/mim/wortals/en/en/news,9560/innovative-young-people-and-their-projects-summary-of-the-innovators-of-tomorrow-project,238175.html" target="__blank">Innovators of Tomorrow 2024</a> competition and pitched at one of the biggest CEE IT events, <a href="https://www.linkedin.com/posts/tech-of-tomorrow-conference_on-march-20-2025-we-gathered-for-innovators-activity-7312413395549392896-FizA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFVuyHUBaE0gvgCppES4bOtc_ot076h0rwQ" target="__blank">Tech of Tomorrow 2025</a>.
+- ☁️ **Weatherly** — A weather forecast app built with React, TailwindCSS, Firebase, and OpenWeatherAPI for real-time weather data.
+
+</br>
+
 ## 🚀 Tech Stack
 
 **Frontend**  
@@ -15,6 +36,8 @@
   <img src="https://www.cdnlogo.com/logos/e/72/expo-go-app.svg" height="40" alt="expo logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 **Backend**  
@@ -50,6 +73,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash scripting logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
 **Design Tools**  
@@ -59,7 +84,11 @@
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
+
+</br>
 
 ## 📫 Want to Collaborate?
 Feel free to reach out or check out some of my repositories below. Always open to new ideas, interesting projects, and code that challenges me to level up.
