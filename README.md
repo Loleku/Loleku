@@ -15,7 +15,7 @@
 ## 🧩 Projects
 
 - ⛓️ **GhostPay** — A payment system concept that enables secure and flexible daily cryptocurrency payments using a card and an app, utilizing blockchain technology. Won the <a href="https://www.poznan.pl/mim/wortals/en/en/news,9560/innovative-young-people-and-their-projects-summary-of-the-innovators-of-tomorrow-project,238175.html" target="__blank">Innovators of Tomorrow 2024</a> competition and pitched at one of the biggest CEE IT events, <a href="https://www.linkedin.com/posts/tech-of-tomorrow-conference_on-march-20-2025-we-gathered-for-innovators-activity-7312413395549392896-FizA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFVuyHUBaE0gvgCppES4bOtc_ot076h0rwQ" target="__blank">Tech of Tomorrow 2025</a>.
-- ☁️ **Weatherly** — A weather forecast app built with React, TailwindCSS, Firebase, and OpenWeatherAPI for real-time weather data.
+- ☁️ <a href="https://github.com/Loleku/PAI-Projekt1">**Weatherly**</a> — A weather forecast app built with React, TailwindCSS, Firebase, and OpenWeatherAPI for real-time weather data.
 
 </br>
 
