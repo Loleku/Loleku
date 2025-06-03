@@ -16,7 +16,10 @@
 
 - ⛓️ **GhostPay** - A payment system concept that enables secure and flexible daily cryptocurrency payments using a card and an app, utilizing blockchain technology. <br>
   - *🏆 Won the <a href="https://www.poznan.pl/mim/wortals/en/en/news,9560/innovative-young-people-and-their-projects-summary-of-the-innovators-of-tomorrow-project,238175.html" target="__blank">Innovators of Tomorrow 2024</a>* competition<br>
-  - *💬 pitched the idea at one of the biggest CEE IT events, <a href="https://www.linkedin.com/posts/tech-of-tomorrow-conference_on-march-20-2025-we-gathered-for-innovators-activity-7312413395549392896-FizA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFVuyHUBaE0gvgCppES4bOtc_ot076h0rwQ" target="__blank">Tech of Tomorrow 2025</a>.*<br><br>
+  - *💬 pitched the idea at one of the biggest CEE IT events, <a href="https://www.linkedin.com/posts/tech-of-tomorrow-conference_on-march-20-2025-we-gathered-for-innovators-activity-7312413395549392896-FizA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFVuyHUBaE0gvgCppES4bOtc_ot076h0rwQ" target="__blank">Tech of Tomorrow 2025</a>.* <br><br>
+
+- 🧠 <a href="https://github.com/Loleku/CodeCamp2024">**MindfulMe**</a> - A stress-reduction app featuring guided exercises, helpful articles, and a space to share personal struggles and receive support — enhanced with gamification elements. Built in 24 hours with my team using HTML, CSS, and JavaScript.
+  - *🏆 Awarded 2nd place at <a href="https://technischools.com/blog/techni-4-code-camp">Techni Code Camp 2024</a>.* <br><br>
   
 - 🧩 <a href="https://github.com/Loleku/codecamp-2025">**GYATTGrid**</a> - Designed a platform with my team that makes learning to code accessible for everyone built in just 24 hours. It’s simple, interactive, and effective. Powered by local LLM's, the app delivers personalized coding tasks and smart hints to make learning smoother.<br>
   - *🏆 Awarded 3rd place at <a href="https://www.linkedin.com/posts/technischools_technischools-programowanie-programista-activity-7334519015341486081-ChJ7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFVuyHUBaE0gvgCppES4bOtc_ot076h0rwQ">Techni Code Camp 2025</a>.* <br><br>
