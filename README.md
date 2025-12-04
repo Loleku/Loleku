@@ -5,7 +5,7 @@
 
 ## 📝 About Me
 
-- 🧑‍🎓 16yo programming student at <a href="https://technischools.com/" target="__blank">Techni Schools</a>
+- 🧑‍🎓 17yo programming student at <a href="https://technischools.com/" target="__blank">Techni Schools</a>
 - 💻 Passionate about the new technologies
 - 📚 Eager to learn new programming concepts
 - 💬 Native in Polish, Fluent in English, Intermediate in German, Basics of Mandarin Chinese
